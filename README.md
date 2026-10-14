@@ -44,3 +44,6 @@ O Livro de Receitas é um aplicativo desenvolvido em Flutter e Dart que permite 
 
    ```bash
    git clone https://github.com/dudamssr/app_receitas.git
+   ```
+
+### Lívia Mazzolini Guarizo
